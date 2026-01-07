@@ -18,6 +18,10 @@
   --gray-600: #e2e4e9;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: url(../img/bg.svg) no-repeat top / contain;
   background-color: var(--gray-200);
